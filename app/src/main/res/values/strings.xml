@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Wasselni</string>
+    <string name="signup">Signup via social networks or via phone number</string>
+    <string name="signupWithGoogle">Google</string>
+    <string name="signupWithFacebook">Facebook</string>
+
 </resources>

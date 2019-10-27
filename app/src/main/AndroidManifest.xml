@@ -12,6 +12,7 @@
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
         <activity android:name=".MainActivity"/>
+        <activity android:name=".ui.Login.LoginActivity"/>
 
         <activity android:name=".ui.splash.SplashActivity">
             <intent-filter>
